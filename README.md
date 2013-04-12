@@ -5,15 +5,19 @@ This is a simple boilerplate application for [Flask](http://flask.pocoo.org/).
 
 ##Running your app
 
-* First create a virtualenv and install packages for project by running ```
+* First create a virtualenv and install packages for project by running
 
-    ``` chmod +x setup_env.sh
+    ``` 
+    chmod +x setup_env.sh
+    
     ./setup_env.sh
     ```
 
 * Once everything is setup, do the following:
 
-    ```chmod +x run.py
+    ```
+    chmod +x run.py
+    
     ./run.py
     ```
 
