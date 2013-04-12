@@ -7,7 +7,7 @@ This is a simple boilerplate application for [Flask](http://flask.pocoo.org/).
 
 * First create a virtualenv and install packages for project by running
 
-    ``` 
+    ```sh
     chmod +x setup_env.sh
     
     ./setup_env.sh
@@ -15,7 +15,7 @@ This is a simple boilerplate application for [Flask](http://flask.pocoo.org/).
 
 * Once everything is setup, do the following:
 
-    ```
+    ```sh
     chmod +x run.py
     
     ./run.py
